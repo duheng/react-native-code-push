@@ -1,5 +1,5 @@
 # React Native Module for CodePush
-
+###此codepush包解决了在rn0.45以上安卓release版本检测到有新包更新时候闪退的问题，希望对大家有所帮助，谢谢
 *Note: This README is only relevant to the latest version of our plugin. If you are using an older version, please switch to the relevant tag on [our GitHub repo](https://github.com/Microsoft/react-native-code-push) to view the docs for that particular version.*
 
 ![Switching tags](https://cloud.githubusercontent.com/assets/8598682/17350832/ce0dec40-58de-11e6-9c8c-906bb114c34f.png)
